@@ -10,12 +10,10 @@
 3.工作流支持处理支持异步操作</br>
 	WFVERSIONMODELBASE</br>
 4.实体处理逻辑支持插件</br>
-	DELOGICBASE/NODE_SFPLUGIN	（新增）</br></br>
-	
+	DELOGICBASE/NODE_SFPLUGIN	（新增）</br></br>	
 2018.2.1</br>
 1.微服务接口调整，添加版本支持及调用参数扩展</br>
 	DESERVICEAPICONTROLLERBASE</br></br>
-
 2018.1.30</br>
 1.实体逻辑数据准备支持数据上下文</br>
 	DEDATASETBASE</br>
@@ -23,14 +21,12 @@
 2.列表部件、移动端多数据部件支持权限设置</br>
 	DECTRLHANDLERBASE/LIST</br>
 	DECTRLHANDLERBASE/MOBMDCTRL</br></br>
-	
 2018.1.25</br>
 1.微服务接口功能调整</br>
 	DEMODELBASE</br>
 	SYSMODELBASE</br>
 	DESERVICEAPICONTROLLERBASE</br>
 	SUBSYSSERVICEAPIMODELBASE</br></br>
-
 2018.1.23</br>
 1.向导面板部件处理对象调整（支持初始化操作中Get、Update获取主键）</br>
 	DECTRLHANDLERBASE/WIZARDPANEL</br>
