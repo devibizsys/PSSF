@@ -1,7 +1,7 @@
 # **一、后台模板**</br>
 2018.2.28</br>
 1.访问控制体系支持“当前系统角色及实体角色”模式</br>
-	DEMODELBASE</br></br>
+	DEMODELBASE</br>
 	SYSMODELBASE</br>
 2.微服务接口功能调整</br>
 	DESERVICEAPICONTROLLERBASE</br>
